@@ -155,7 +155,7 @@ pre[class*="language-"] {
   word-wrap: normal;
   direction: ltr;
   font-family: Inconsolata, monospace;
-  font-size: 13px;
+  font-size: inherit;
   letter-spacing: 0; }
 
 /* Code blocks */
